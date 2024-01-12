@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snehan Chakra Varthi. Industrial Designer | Full Stack Developer
+- 👋 Hi, I’m @Snehan Chakra Varthi. Industrial Designer | Software Developer
 - 📫 How to reach me: snehanchakravarthi@gmail.com
 <!---
 SnehanChakravarthi/SnehanChakravarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
