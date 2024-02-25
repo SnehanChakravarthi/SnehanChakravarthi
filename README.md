@@ -1,6 +1,5 @@
-👋 Hi, I’m @Snehan Chakra Varthi. Industrial Designer | Software Developer
-- 📫 How to reach me: snehanchakravarthi@gmail.com
-- Find more in my site: www.snehan.site
+👋 Hi, I’m Snehan Chakravarthi. A multi-disciplinary developer and designer. I build all kinds of web apps, from AI platforms to interactive 3D front-ends. 
+Find out more about me at [snehan.site](https://snehan.site)
 
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,threejs,nextjs,astro)](https://skillicons.dev)
 
