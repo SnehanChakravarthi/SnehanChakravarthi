@@ -4,15 +4,15 @@
 ###  Explore my work of development and design at [snehan.site](https://snehan.site)
 
 ### my skills stack
-Front-end
+- Front-end
 [![My Skills](https://skillicons.dev/icons?i=react,threejs,svelte,next,astro,remix,tailwind)](https://skillicons.dev)
-Back-end
+- Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django)](https://skillicons.dev)
-Database
+- Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase)](https://skillicons.dev)
-Tooling
+- Tooling
 [![My Skills](https://skillicons.dev/icons?i=postman,graphql,git,vscode,docker,vercel,kubernetes)](https://skillicons.dev)
-Design
+- Design
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,blender,ps,ai,ae)](https://skillicons.dev)
 
 Email: snehanchakravarthi@gmail.com
