@@ -3,7 +3,7 @@
 
 ###  Explore my work of development and design at [snehan.site](https://snehan.site)
 
-### my skills stack
+### skills
 Front-end
 
 [![frontend](https://skillicons.dev/icons?i=react,threejs,svelte,next,astro,remix,tailwind)](https://skillicons.dev)
