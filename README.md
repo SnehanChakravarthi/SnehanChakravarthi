@@ -1,7 +1,7 @@
 ### _hi there_ 👋
  I’m _Snehan Chakravarthi_. A multi-disciplinary developer and designer with a passion for creating innovative web applications. My expertise spans a diverse range of projects, from AI platforms to interactive 3D front-ends.
 
-###  Explore my work of development and design at [snehan.site](https://snehan.site)
+### _Explore my work of development and design at [snehan.site](https://snehan.site)_
 
 ### skills
 Front-end
