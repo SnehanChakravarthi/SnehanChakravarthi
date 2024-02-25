@@ -8,15 +8,15 @@ Front-end
 [![frontend](https://skillicons.dev/icons?i=react,threejs,svelte,next,astro,remix,tailwind)](https://skillicons.dev)
 
 Back-end 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django)](https://skillicons.dev)
 
 Database 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase)](https://skillicons.dev)
 
-Tooling 
-[![My Skills](https://skillicons.dev/icons?i=postman,graphql,git,vscode,docker,vercel,kubernetes)](https://skillicons.dev)
+Tools 
+[![tools](https://skillicons.dev/icons?i=postman,graphql,git,vscode,docker,vercel,kubernetes)](https://skillicons.dev)
 
 Design 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,blender,ps,ai,ae)](https://skillicons.dev)
+[![design](https://skillicons.dev/icons?i=figma,xd,blender,ps,ai,ae)](https://skillicons.dev)
 
 Email: snehanchakravarthi@gmail.com
