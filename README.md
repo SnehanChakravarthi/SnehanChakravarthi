@@ -14,7 +14,7 @@ Back-end
 
 Database
 
-[![database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase,redix)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase,redis)](https://skillicons.dev)
 
 Tools
 
