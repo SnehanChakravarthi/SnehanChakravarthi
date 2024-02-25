@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snehan Chakra Varthi. Industrial Designer | Software Developer
+👋 Hi, I’m @Snehan Chakra Varthi. Industrial Designer | Software Developer
 - 📫 How to reach me: snehanchakravarthi@gmail.com
 - Find more in my site: www.snehan.site
 
