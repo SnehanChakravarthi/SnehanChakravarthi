@@ -1,10 +1,11 @@
-👋 Hi, I’m Snehan Chakravarthi. A multi-disciplinary developer and designer. I build all kinds of web apps, from AI platforms to interactive 3D front-ends. 
-Find out more about me at [snehan.site](https://snehan.site)
+👋 Hi there!
 
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,threejs,nextjs,astro)](https://skillicons.dev)
 
-<h1 align="center">Hi 👋, I'm Snehan Chakravarthi</h1>
-<h3 align="center">full stack developer, designer</h3>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I’m Snehan Chakravarthi. A multi-disciplinary developer and designer. I build all kinds of web apps, from AI platforms to interactive 3D front-ends.</h1>
+<h3 align="center">Find out more about me at [snehan.site](https://snehan.site)</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
