@@ -6,7 +6,17 @@
 I'm all about chasing the new and the next – Space Rockets E/Acc AI you name it. If it's got a tech edge, I'm there, ready to tinker and explore.
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:snehan_chakrav)
+<a href="https://www.instagram.com/zznehan/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/snehan_chakrav/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/snehanchakravarthi/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 
 
 ### _Explore my work of development and design at [snehan.site](https://snehan.site)_
