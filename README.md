@@ -1,7 +1,5 @@
 ## _hi there_ 👋
 
- I’m _Snehan Chakravarthi_. A multi-disciplinary developer and designer with a passion for creating innovative web applications. My expertise spans a diverse range of projects, from AI platforms to interactive 3D front-ends.
-
 <a href="https://www.twitter.com/snehan_chakrav/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
@@ -11,6 +9,8 @@
 <a href="https://www.linkedin.com/in/snehanchakravarthi/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
+
+ I’m _Snehan Chakravarthi_. A multi-disciplinary developer and designer with a passion for creating innovative web applications. My expertise spans a diverse range of projects, from AI platforms to interactive 3D front-ends.
 
  My mornings? A ritual. Brew some strong coffee and dive into VS Code. My coding sessions are nothing without Hanz Zimmer and Ludvig Goransson's epic scores, plus a sprinkle of serene, instrumental vibes. Afternoons are for geeking out – gym sessions with my buddies, listening to Lex Fridman dinner with ThePrimeagen's video on the side, and slaying undead in Elden Ring to wrap up the day.
 
