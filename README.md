@@ -16,7 +16,7 @@ I'm all about chasing the new and the next – Space Rockets E/Acc AI you name i
 </a>
 
 
-### _Explore my work of development and design at [snehan.site](https://snehan.site)_
+# _PORTFOLIO_: [snehan.site](https://snehan.site)_
 
 ## _skills_
  Front-end
