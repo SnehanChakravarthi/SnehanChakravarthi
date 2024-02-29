@@ -5,7 +5,8 @@
 
 I'm all about chasing the new and the next – Space Rockets E/Acc AI you name it. If it's got a tech edge, I'm there, ready to tinker and explore.
 
-![Static Badge](https://img.shields.io/badge/:email)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:snehan_chakrav)
 
 
 ### _Explore my work of development and design at [snehan.site](https://snehan.site)_
