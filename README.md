@@ -21,7 +21,7 @@ I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you nam
 ## _skills_
  Front-end
 
-[![frontend](https://skillicons.dev/icons?i=react,threejs,svelte,next,astro,remix,tailwind)](https://skillicons.dev)
+[![frontend](https://skillicons.dev/icons?i=react,next,threejs,svelte,astro,remix,tailwind)](https://skillicons.dev)
 
 Back-end
 
