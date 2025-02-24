@@ -1,6 +1,6 @@
 ## _hi there_ 👋
 
-<a href="https://www.twitter.com/snehan_chakrav/">
+<a href="https://x.com/znebrakr">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 <a href="https://www.instagram.com/zznehan/">
