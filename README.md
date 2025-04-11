@@ -33,6 +33,6 @@ Database
 
 Design
 
-[![design](https://skillicons.dev/icons?i=figma,xd,blender,ps,ai,ae)](https://skillicons.dev)
+[![design](https://skillicons.dev/icons?i=figma,blender,ps,ai,ae)](https://skillicons.dev)
 
 Email: snehanchakravarthi@gmail.com
