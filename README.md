@@ -21,19 +21,15 @@ I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you nam
 ## _skills_
  Front-end
 
-[![frontend](https://skillicons.dev/icons?i=react,next,threejs,svelte,astro,remix,tailwind)](https://skillicons.dev)
+[![frontend](https://skillicons.dev/icons?i=react,next,threejs,astro)](https://skillicons.dev)
 
 Back-end
 
-[![backend](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=nodejs,python,flask,fastapi)](https://skillicons.dev)
 
 Database
 
-[![database](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo,firebase,redis)](https://skillicons.dev)
-
-Tools
-
-[![tools](https://skillicons.dev/icons?i=postman,graphql,git,vscode,docker,vercel,kubernetes)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 Design
 
