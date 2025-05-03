@@ -16,14 +16,14 @@ I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you nam
 
 Let’s talk if you’re building something that needs taste, speed, and uncompromising technical execution.
 
-snehanchakravarthi@gmail.com
+email - snehanchakravarthi@gmail.com
 
-[metroglitch](https://metroglitch.com)
+agency - [metroglitch](https://metroglitch.com)
 
-[snehan.site](https://snehan.site)
+portfolio - [snehan.site](https://snehan.site)
 
-[x (formerly twitter)](https://x.com/znebrakr)
+x - [x (formerly twitter)](https://x.com/znebrakr)
 
-[Instagram](https://www.instagram.com/zznehan)
+insta - [Instagram](https://www.instagram.com/zznehan)
 
-[LinkedIn](https://www.linkedin.com/in/snehanchakravarthi)
+linkedin - [LinkedIn](https://www.linkedin.com/in/snehanchakravarthi)
