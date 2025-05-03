@@ -1,7 +1,7 @@
-## _hi there_ 👋
+hi there 👋
 
 <a href="https://x.com/znebrakr">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+https://x.com/znebrakr
 </a>
 <a href="https://www.instagram.com/zznehan/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
