@@ -10,7 +10,7 @@ I build software.
 
 I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you name it. If it's got a tech edge, I'm there, ready to tinker and explore.
 
-[![frontend](https://skillicons.dev/icons?i=react,next,threejs,astro,nodejs,python,flask,fastapi,postgres,mysql,figma,blender,ps,ai,ae)](https://skillicons.dev)
+[![frontend](https://skillicons.dev/icons?i=react,next,threejs,nodejs,python,flask,fastapi,postgres,mysql,figma,blender,ps,ai,ae)](https://skillicons.dev)
 
 ⸻
 
