@@ -18,6 +18,8 @@ Let’s talk if you’re building something that needs taste, speed, and uncompr
 
 snehanchakravarthi@gmail.com
 
+[metroglitch](https://metroglitch.com)
+
 [snehan.site](https://snehan.site)
 
 [x (formerly twitter)](https://x.com/znebrakr)
