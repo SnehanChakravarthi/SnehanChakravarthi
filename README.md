@@ -10,9 +10,9 @@ I build software.
 
 I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you name it. If it's got a tech edge, I'm there, ready to tinker and explore.
 
-[snehan.site](https://snehan.site)
-
 [![frontend](https://skillicons.dev/icons?i=react,next,threejs,astro,nodejs,python,flask,fastapi,postgres,mysql,figma,blender,ps,ai,ae)](https://skillicons.dev)
+
+⸻
 
 Let’s talk if you’re building something that needs taste, speed, and uncompromising technical execution.
 
