@@ -1,6 +1,7 @@
 Snehan Chakravarthi
 
 Founder @ MetroGlitch
+
 Full-stack engineer, systems thinker, and design maximalist.
 
 ⸻
@@ -15,7 +16,7 @@ I'm all about chasing the new and the next – Space, Rockets, E/Acc, AI you nam
 
 Let’s talk if you’re building something that needs taste, speed, and uncompromising technical execution.
 
-📫 snehanchakravarthi@gmail.com
+snehanchakravarthi@gmail.com
 
 [snehan.site](https://snehan.site)
 
