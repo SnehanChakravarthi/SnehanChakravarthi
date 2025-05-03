@@ -22,6 +22,6 @@ snehanchakravarthi@gmail.com
 
 [x (formerly twitter)](https://x.com/znebrakr)
 
-[Instagram)](https://www.instagram.com/zznehan)
+[Instagram](https://www.instagram.com/zznehan)
 
-[LinkedIn)](https://www.linkedin.com/in/snehanchakravarthi)
+[LinkedIn](https://www.linkedin.com/in/snehanchakravarthi)
