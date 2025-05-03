@@ -20,6 +20,8 @@ snehanchakravarthi@gmail.com
 
 [snehan.site](https://snehan.site)
 
+[x (formerly twitter]([https://snehan.site](https://x.com/znebrakr))
+
 <a href="https://x.com/znebrakr">
 https://x.com/znebrakr
 </a>
