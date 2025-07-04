@@ -12,6 +12,4 @@ portfolio - [snehan.site](https://snehan.site)
 
 x(formerly twitter) - [x.com/znebrakr](https://x.com/znebrakr)
 
-insta - [instagram.com/zznehan](https://instagram.com/zznehan)
-
 linkedin - [linkedin.com/in/snehanchakravarthi](https://linkedin.com/in/snehanchakravarthi)
