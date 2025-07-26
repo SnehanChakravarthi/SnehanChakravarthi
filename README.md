@@ -1,8 +1,6 @@
 Snehan Chakravarthi
 
-Full-stack systems and design maximalist.
-
-[![frontend](https://skillicons.dev/icons?i=react,next,threejs,nodejs,python,flask,fastapi,postgres,mysql,blender,ps,ai,ae)](https://skillicons.dev)
+[![frontend](https://skillicons.dev/icons?i=react,next,threejs,nodejs,python,fastapi,postgres,blender)](https://skillicons.dev)
 
 email - snehanchakravarthi@gmail.com
 
